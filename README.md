@@ -15,7 +15,7 @@
 Mi sueño es crear experiencias digitales que conecten con las personas y aporten valor al mundo. Estoy en constante aprendizaje, explorando tecnologías como HTML, CSS, JavaScript y frameworks modernos, mientras desarrollo proyectos que reflejan mi visión y mi pasión.
 
 ¡Estoy listo para seguir creciendo y construir un futuro en el fascinante mundo del desarrollo web! 🚀
->  Disfruto compartiendo mi conocimiento y acompañando a otras mujeres en su aprendizaje.
+>  Disfruto creando y aprendiendo 🧩.
 
 ### 🛠 Frameworks y herramientas
 
