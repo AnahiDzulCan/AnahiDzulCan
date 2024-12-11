@@ -5,8 +5,7 @@
 
 # 🎆 [Yo](https://www.linkedin.com/in/anahi-dzul-c-657b67336/)
 
-![Anah![Uploading Tarjeta de presentación con flores elegante rosa.png…]()
-i Dzul Estudiante Ingenieria de software]()
+![Anahi Dzul Estudiante Ingenieria de software]()
 
 <li><b>👤 Name:  </b> Anahi del Rosario Dzul Can </li>
 <li><b>📍 Location:  </b> Yucatán </li>
