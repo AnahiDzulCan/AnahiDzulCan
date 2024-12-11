@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-![Tarjeta de presentación con flores elegante rosa](https://github.com/user-attachments/assets/f83fd698-6ba8-4050-9199-6ed1ecf3e129)
+![Me presento: ](https://github.com/user-attachments/assets/f83fd698-6ba8-4050-9199-6ed1ecf3e129)
 
-# 🎆 [  ](https://www.linkedin.com/in/anahi-dzul-c-657b67336/)
+# 🎆 [Yo](https://www.linkedin.com/in/anahi-dzul-c-657b67336/)
 
 ![Anah![Uploading Tarjeta de presentación con flores elegante rosa.png…]()
 i Dzul Estudiante Ingenieria de software]()
